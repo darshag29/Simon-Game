@@ -56,3 +56,6 @@ A classic Simon memory game featuring four colored buttons and dynamic level pro
 📜 License
 
 This project is created for learning and educational purposes.
+
+Made by
+DARSH AGARWAL
